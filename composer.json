@@ -1,0 +1,15 @@
+{
+    "name": "jooaziz/usergrid",
+     "autoload": {
+        "psr-4": {
+            "joeaziz\\usergrid\\": "src/"
+           
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "jooaziz/array-collection": "^1.0"
+       
+    },
+    "license": "MIT"
+}
